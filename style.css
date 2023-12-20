@@ -1,0 +1,58 @@
+.titlu {
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.card img {
+    padding: 5px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.textulet {
+    font-size: 20px;
+    text-align: center;
+}
+
+.contact {
+    padding-left: 20px;
+
+}
+
+.position {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sectie1{
+    padding-top:80px;
+}
+
+.fontfa{
+    color: brown;
+}
+
+.ceiei{
+    padding:25px;
+    color:brown;
+}
+
+.dada{
+    color:brown;
+}
+
+.ceicei{
+    color: brown;
+    padding:45px;
+}
+
+
+    
+.yeye{
+    text-align: center;
+    color: brown;
+}
